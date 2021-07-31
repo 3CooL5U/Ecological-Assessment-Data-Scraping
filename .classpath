@@ -6,17 +6,17 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/micha/Downloads/commons-lang3-3.12.0.jar">
+	<classpathentry kind="lib" path="lib/commons-csv-1.8.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/micha/Downloads/commons-csv-1.8.jar">
+	<classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/micha/Downloads/pdfbox-app-2.0.24.jar">
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.24.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
