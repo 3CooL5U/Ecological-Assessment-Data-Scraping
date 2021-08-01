@@ -9,4 +9,5 @@ There are three different versions of the SEA script as so far, I have found thr
   is how we find the scores in the pdfs.
 
 These programs use libraries such as Apache PDFBox, if the imports do not work please 
-  make sure these are properly installed and the build path is correct.
+  make sure these are properly installed and the build path is correct. (they can be
+  found in /lib)
